@@ -40,3 +40,5 @@ The ultrasonic sensor is placed facing the area that needs to be monitored.
 - Activates the buzzer when an object is detected.
 - Turns ON the LED as a visual warning.
 - Provides a simple safety alert system.
+![Dangerzone_alart](Dangerzone_alart.jpg)
+![Dangerzone_alart1](Dangerzone_alart1.jpg)
